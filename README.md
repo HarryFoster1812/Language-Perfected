@@ -6,7 +6,7 @@ Works for word-word tasks and dash as well.
 uses selenium to scrape the web
 uses keyboard to type answers
 
-*if you find any bugs or issues please notify me and i will try and fix them as soon as possible
+*if you find any bugs or issues please notify me and i will try and fix them as soon as possible*
 
 # Hot keys
 ctrl+shift+e - start auto answer script
