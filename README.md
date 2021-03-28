@@ -10,6 +10,7 @@ uses keyboard to type answers
 
 # Hot keys
 ctrl+shift+e - start auto answer script
+
 ctrl+shift+z- stop auto anser script
 
 # Setup
