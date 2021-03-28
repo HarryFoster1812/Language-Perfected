@@ -11,7 +11,7 @@ uses keyboard to type answers
 # Hot keys
 ctrl+shift+e - start auto answer script
 
-ctrl+shift+z- stop auto anser script
+ctrl+shift+z - stop auto anser script
 
 # Setup
 after downloading the files, go to cmd and change directory to where requirements.txt is located
