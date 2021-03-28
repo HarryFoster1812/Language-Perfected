@@ -15,5 +15,7 @@ ctrl+shift+z - stop auto anser script
 
 # Setup
 after downloading the files, go to cmd and change directory to where requirements.txt is located
+
 run pip install -r requirements.txt
+
 go into the source code and change the email and password to your own
