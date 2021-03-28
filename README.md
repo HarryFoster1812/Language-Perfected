@@ -13,7 +13,9 @@ uses keyboard to type answers
 # Hot keys
 ctrl+shift+e - start auto answer script
 
-ctrl+shift+z - stop auto anser script
+ctrl+shift+z - stop auto answer script
+
+ctrl+shift+x - scrapes the answer sheet
 
 # Setup
 Go to google and download chrome webdriver (check which version of chrome you are running first)
