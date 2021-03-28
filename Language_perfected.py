@@ -10,8 +10,8 @@ activated = False # Program is turned off
 words = []
 matchingwords = []
 
-email = "10hfoster@jess.sch.ae" # Your email
-password = "Jess2929" # Your password
+email = "your@email" # Your email
+password = "Password" # Your password
 
 origin = ''
 
