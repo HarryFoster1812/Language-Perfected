@@ -150,5 +150,6 @@ def ui():
 
 keyboard.add_hotkey('ctrl+shift+e', start)
 keyboard.add_hotkey('ctrl+shift+z', stop)
+keyboard.add_hotkey('ctrl+shift+x', scrape_answer_sheet)
 
 ui()
