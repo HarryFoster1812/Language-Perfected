@@ -1,6 +1,7 @@
 # Language Perfected
 
-A really bad python auto anwer scrip for language perfect
+A really bad python auto anwer scrip for language perfect.
+
 Works for word-word tasks and dash as well.
 
 uses selenium to scrape the web
