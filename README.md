@@ -16,8 +16,10 @@ ctrl+shift+e - start auto answer script
 ctrl+shift+z - stop auto anser script
 
 # Setup
+Go to google and download chrome webdriver (check which version of chrome you are running first)
 after downloading the files, go to cmd and change directory to where requirements.txt is located
 
 run pip install -r requirements.txt
 
 go into the source code and change the email and password to your own
+, also change directory of chrome webdriver
