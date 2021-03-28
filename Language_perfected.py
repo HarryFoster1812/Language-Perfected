@@ -17,7 +17,7 @@ origin = ''
 
 def login():
     global driver
-    driver = webdriver.Chrome("C:\\Users\harry\Documents\chromedriver.exe") # Where your chrome driver is
+    driver = webdriver.Chrome("") # Where your chrome driver is
     driver.get("https://www.educationperfect.com/app/#/login") # Opens website
     time.sleep(5)
 
@@ -75,7 +75,7 @@ def scrape_question():
     for i in questiontxt:
         txtquestion = i.text
 
-    if ("starts with") or ("ends with") in txtquestion:
+    if (("starts with") or ("ends with")) in txtquestion:
         txtquestion, waste = txtquestion.split(" (")
     if "he," in txtquestion:
         pass
