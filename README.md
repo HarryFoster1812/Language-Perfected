@@ -17,6 +17,7 @@ ctrl+shift+z - stop auto anser script
 
 # Setup
 Go to google and download chrome webdriver (check which version of chrome you are running first)
+
 after downloading the files, go to cmd and change directory to where requirements.txt is located
 
 run pip install -r requirements.txt
